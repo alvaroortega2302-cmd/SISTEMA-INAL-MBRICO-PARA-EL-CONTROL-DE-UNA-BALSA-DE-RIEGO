@@ -25,9 +25,9 @@ from telegram.ext import (
 # ============================
 # CONFIGURACION
 # ============================
-TELEGRAM_TOKEN = "8387354749:AAE-Cu5luL8kSsUJ-bEOPPjr0Bkn_I0xeGA"
-USUARIOS_AUTORIZADOS = [1417557374, 7996748557]
-CHAT_IDS_AVISO = [1417557374]
+TELEGRAM_TOKEN = "TU_TOKEN"
+USUARIOS_AUTORIZADOS = [tu_chat_id]
+CHAT_IDS_AVISO = [tu_chat_id]
 
 CAMERA_INDEX = 1
 CARPETA_FOTOS = "fotos_temp"
